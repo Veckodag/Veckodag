@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Veckodag
 - 👀 I’m interested in all forms of .NET and Javascript development!
 - 🌱 I’m currently learning handy Typescript tricks
-- 💞️ I’m looking to collaborate on small .NET or Typescript libraries
+- 💞️ I’m looking to collaborate on small .NET or Typescript projects
 - 📫 How to reach me: Either here or on https://www.linkedin.com/in/veckodag/
 
 <!---
